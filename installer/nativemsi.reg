@@ -1,0 +1,8 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Wine]
+"Version"="win98"
+
+[HKEY_CURRENT_USER\Software\Wine\DllOverrides]
+"msi"="native"
+"msiexec.exe"="native"
